@@ -1,0 +1,17 @@
+<style type="text/css">
+
+p, h1, a { font-family: Helvetica, Arial, sans-serif; 
+    	   font-weight: 300; 
+    	   text-align: center;
+    }
+
+.list { font-size: 12 px;
+		  list-style-type: square;
+		  border-width: 8px;
+		  border-style: double;
+		  }
+
+.title { font-size: 20 px;
+		 text-align: center;
+	   }
+</style>
