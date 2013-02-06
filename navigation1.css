@@ -1,17 +1,20 @@
-<style type="text/css">
+body { background-image:url('stars.jpg');
+      font-family: Helvetica, Arial, sans-serif; 
+      font-weight: 300;
+      }
 
-p, h1, a { font-family: Helvetica, Arial, sans-serif; 
-    	   font-weight: 300; 
-    	   text-align: center;
-    }
+.content { 
+		margin-left: auto;
+		margin-right: auto;
+		width: 65%;
+		background-color: #FFFFFF;
+		 }
+
+.centered { text-align: center; }
 
 .list { font-size: 12 px;
 		  list-style-type: square;
-		  border-width: 8px;
-		  border-style: double;
 		  }
 
 .title { font-size: 20 px;
-		 text-align: center;
 	   }
-</style>
