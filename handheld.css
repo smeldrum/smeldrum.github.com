@@ -13,9 +13,9 @@ body { background-image:url('stars.jpg');
 
 .centered { text-align: center; }
 
-.list { font-size: 12 px;
+.list { font-size: medium;
 		  list-style-type: square;
 		  }
 
-.title { font-size: 25 px;
+.title { font-size: large;
 	   }
